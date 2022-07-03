@@ -973,7 +973,7 @@ const ie = () => {
                 })]
             }), e(N, {
                 className: "react-player",
-                url: "//www.youtube.com/embed/lf6refTxQs8?autoplay=1&mute=1&start=1",
+                url: "//www.youtube.com/embed/GTyNFRhqncw?autoplay=1&mute=1&start=1",
                 width: "0%",
                 height: "0%",
                 position: "absolute",
