@@ -907,8 +907,8 @@ const ie = () => {
                     children: e(N, {
                         className: "react-player",
                         url: "//www.youtube.com/embed/VOHm5JmBP8o?autoplay=1&mute=1&start=12",
-                        width: "90%",
-                        height: "90%",
+                        width: "100%",
+                        height: "100%",
                         position: "relative",
                         overflow: "hidden",
                         playing: !0,
